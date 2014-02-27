@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
+    <string name="AppName">Telegram SD</string>
 
     <!--signin view-->
     <string name="YourPhone">Dein Telefon</string>
@@ -10,7 +10,7 @@
 
     <!--code enter view-->
     <string name="YourCode">Dein Code</string>
-    <string name="SentSmsCode">Wir haben dir eine SMS mit einem Aktivierungscode zugeschickt: </string>
+    <string name="SentSmsCode">Wir haben dir eine SMS mit einem Aktivierungscode zugeschickt</string>
     <string name="CallText">Wir rufen dich an in</string>
     <string name="Calling">Wir rufen dich an &#8230;</string>
     <string name="Code">Code</string>
@@ -29,6 +29,7 @@
     <string name="Search">Suche</string>
     <string name="NewMessages">Neue Nachrichten</string>
     <string name="Settings">Einstellungen</string>
+    <string name="Status">Status</string>
     <string name="Contacts">Kontakte</string>
     <string name="NewGroup">Neue Gruppe</string>
     <string name="Yesterday">gestern</string>
@@ -171,6 +172,7 @@
     <string name="GroupInfo">Gruppeninfo</string>
     <string name="SHAREDMEDIA">GETEILTE MEDIEN</string>
     <string name="SETTINGS">EINSTELLUNGEN</string>
+    <string name="STATUS">STATUS</string>
     <string name="AddMember">Teilnehmer hinzufügen</string>
     <string name="DeleteAndExit">Gruppe löschen und verlassen</string>
     <string name="Notifications">Benachrichtigungen</string>
@@ -209,6 +211,7 @@
     <string name="TextSize">Textgröße für Nachrichten</string>
     <string name="AskAQuestion">Eine Frage stellen</string>
     <string name="EnableAnimations">Animationen aktiveren</string>
+    <string name="EnableInvisible">Online Status anzeigen</string>
     <string name="Unblock">Entsperren</string>
     <string name="UnblockText">Tippe und halte einen Benutzer um ihn zu entsperren.</string>
     <string name="NoBlocked">Keine blockierten Benutzer</string>
@@ -231,12 +234,14 @@
     <string name="SaveIncomingPhotos">Speichere eingehende Bilder</string>
     <string name="LogOut">Abmelden</string>
     <string name="YourFirstNameAndLastName">DEIN VOR- UND NACHNAME</string>
+    <string name="editStatus">Bearbeiten deines Status</string>
     <string name="NoSound">Kein Ton</string>
     <string name="Default">Standard</string>
     <string name="Support">SUPPORT</string>
     <string name="ChatBackground">Chat-Hintergrundbild</string>
+    <string name="design">DesignFarbe</string>
     <string name="MessagesSettings">NACHRICHTEN</string>
-    <string name="SendByEnter">Mit <![CDATA[<b>Enter</b>]]> senden</string>
+    <string name="SendByEnter">Mit <b>Enter</b> senden</string>
     <string name="TerminateAllSessions">Alle Sitzungen abmelden</string>
     <string name="AutomaticPhotoDownload">AUTOMATISCHER BILDERDOWNLOAD</string>
     <string name="AutomaticPhotoDownloadGroups">Gruppen</string>
@@ -336,7 +341,7 @@
     <string name="Page5Title">Leistungsstark</string>
     <string name="Page6Title">Cloud-Basiert</string>
     <string name="Page7Title">Privat</string>
-    <string name="Page1Message">Willkommen in der Ära der sicheren und schnellen Kommunikation.</string>
+    <string name="Page1Message"><![CDATA[<b>SnapDroid.de Extension</b>]]><![CDATA[<br/>]]>Willkommen in der Ära der sicheren und schnellen Kommunikation</string>
     <string name="Page2Message"><![CDATA[<b>Telegram</b>]]> stellt Nachrichten schneller<![CDATA[<br/>]]>zu als andere Anwendungen</string>
     <string name="Page3Message"><![CDATA[<b>Telegram</b>]]> ist für immer kostenlos.<![CDATA[<br/>]]>Keine Werbung. Keine wiederkehrenden Kosten.</string>
     <string name="Page4Message"><![CDATA[<b>Telegram</b>]]> schützt deine Nachrichten<![CDATA[<br/>]]>vor Hacker-Angriffen</string>
